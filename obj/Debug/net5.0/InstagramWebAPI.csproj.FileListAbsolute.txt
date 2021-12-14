@@ -1,0 +1,12 @@
+D:\Projetos\InstagramWebAPI\bin\Debug\net5.0\InstagramWebAPI.deps.json
+D:\Projetos\InstagramWebAPI\bin\Debug\net5.0\InstagramWebAPI.dll
+D:\Projetos\InstagramWebAPI\bin\Debug\net5.0\ref\InstagramWebAPI.dll
+D:\Projetos\InstagramWebAPI\bin\Debug\net5.0\InstagramWebAPI.pdb
+D:\Projetos\InstagramWebAPI\obj\Debug\net5.0\InstagramWebAPI.csprojAssemblyReference.cache
+D:\Projetos\InstagramWebAPI\obj\Debug\net5.0\InstagramWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\InstagramWebAPI\obj\Debug\net5.0\InstagramWebAPI.AssemblyInfoInputs.cache
+D:\Projetos\InstagramWebAPI\obj\Debug\net5.0\InstagramWebAPI.AssemblyInfo.cs
+D:\Projetos\InstagramWebAPI\obj\Debug\net5.0\InstagramWebAPI.csproj.CoreCompileInputs.cache
+D:\Projetos\InstagramWebAPI\obj\Debug\net5.0\InstagramWebAPI.dll
+D:\Projetos\InstagramWebAPI\obj\Debug\net5.0\ref\InstagramWebAPI.dll
+D:\Projetos\InstagramWebAPI\obj\Debug\net5.0\InstagramWebAPI.pdb

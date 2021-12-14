@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6K6O8n0UA3l3aw/tYWQCnw5vovA2bMbFoVRSMyq00z/AzRzDjsem0211iTkkXWMp17Ib+hw/NB2vf4el7fAXsQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\InstagramWebAPI\\InstagramWebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dias\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
