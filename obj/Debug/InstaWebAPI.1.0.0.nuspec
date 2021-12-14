@@ -3,9 +3,11 @@
   <metadata>
     <id>InstaWebAPI</id>
     <version>1.0.0</version>
+    <title>Instagram WebAPI</title>
     <authors>Dias</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Package Description</description>
+    <description>Instagram's WebAPI, it was created for educational purposes only.</description>
+    <repository url="https://github.com/higordiasz/InstaWebAPI" />
     <dependencies>
       <group targetFramework="net5.0">
         <dependency id="Newtonsoft.Json" version="13.0.1" exclude="Build,Analyzers" />
