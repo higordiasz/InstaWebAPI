@@ -6,6 +6,10 @@
     <Version>1.0.0</Version>
     <Authors>Dias</Authors>
     <Company>Arka</Company>
+    <Description>Instagram's WebAPI, it was created for educational purposes only.</Description>
+    <Title>Instagram WebAPI</Title>
+    <Summary>Instagram's WebAPI, it was created for educational purposes only.</Summary>
+    <RepositoryURL>https://github.com/higordiasz/InstaWebAPI</RepositoryURL>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <ApplicationIcon>insta.ico</ApplicationIcon>
   </PropertyGroup>
