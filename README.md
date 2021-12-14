@@ -22,15 +22,14 @@ using InstaWebAPI.UserDate;
 
 public class Program
 {
-	public static void Main()
-	{
+    public static void Main() {
         UserDate user = new UserDate {
             Username = "username of account",
             Password = "password of account"
         };
         // If use default useragent = InstaWebAPI api = new InstaWebAPI(user);
-		InsaWebAPI api = new InsaWebAPI(user, true, "useragent");
-	}
+	InsaWebAPI api = new InsaWebAPI(user, true, "useragent");
+    }
 }
 
 ```
